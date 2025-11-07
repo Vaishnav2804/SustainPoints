@@ -1,0 +1,18 @@
+Idea Overview/Map:
+
+Sustainability Points:
+
+This idea aims at the Accessibility and inclusiviness portion of the hackathon.
+
+
+Sustainability Points are motivators for people to spend and use with sustainability in mind.
+Similiar to how airmiles or scene+ motivate you to spend when buying groceries and give you rewards after spending.
+
+According to both the cateogory of spending and the amount spent, the user will get a corresponding sustainability point.
+The user can then spend their points to:
+
+There are 4 cateogries of spending that a user can earn points from:
+1. Purchasing Refurbished item such as second hand electronics or clothes
+2. Paying for public transportation such as metro, bus, or tram
+3. Purchasing items that promote renewable energy uses such as solar panels
+4. Depending on how much money they have been able to save on utilities (water and power)
