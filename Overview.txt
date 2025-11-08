@@ -8,6 +8,12 @@ This idea aims at the Accessibility and inclusiviness portion of the hackathon.
 Sustainability Points are motivators for people to spend and use with sustainability in mind.
 Similiar to how air-miles or scene+ motivate you to spend when buying groceries and give you rewards after spending.
 
+Research has shown that these sort of programs really help users to be more sustainable:
+1. Randomized field experiment (2024, Environmental & Resource Economics): giving shoppers individualized carbon feedback in a grocery app reduced emissions ~27% in month 1 (esp. beef), with effects fading as app engagement waned (persistence among engaged users). This is the strongest causal evidence to cite. 
+2. Visa “Eco Benefits” (powered by ecolytiq) and NatWest’s Carbon Tracker show mainstream adoption of transaction-based footprinting, with Visa explicitly positioning rewards tied to sustainable behaviors. 
+3. Clarity AI’s study of ecolytiq users reports shifts toward lower-emission choices without reducing overall spending (directional, not an RCT). Handy for a “market validation” slide. 
+4. Points-for-behavior schemes have worked in health contexts (e.g., physical-activity loyalty programs via randomized trials), which supports the general mechanism of “points change habits.”
+
 According to both the cateogory of spending and the amount spent, the user will get a corresponding sustainability point.
 
 
@@ -20,7 +26,7 @@ The user can then spend their points to:
 
 
 3. Reduce price of solar panels
-    
+
 
 4. Reduce price of insulation
 
