@@ -1,2 +1,3 @@
 Future Ideas:
-1. 
+1. Automate financial statement retrieval pipeline once Open Banking protocols are implemented.
+2. 
