@@ -12,15 +12,26 @@ According to both the cateogory of spending and the amount spent, the user will 
 
 
 The user can then spend their points to:
+
 1. Tax Redemption
+    By partnering with willing countries we can give access to our dataset to give citizens tax credits similar to when citizens buy an EV vehicle or solar panels
+
 2. Reduce price of EV vehicle
+
+
 3. Reduce price of solar panels
+    
+
 4. Reduce price of insulation
+
+
 5. Reduce price of second hand goods
+
+
 6. Reduce price of public transporation passes
 
 
-There are 4 cateogries of spending that a user can earn points from:
+There are 5 cateogries of spending that a user can earn points from:
 
 1. Purchasing Refurbished item such as second hand electronics or clothes
     By reading the user's bank account transactions we can detect where they have spent money, and if it fits within this category.
@@ -41,9 +52,8 @@ There are 4 cateogries of spending that a user can earn points from:
     Ideally we want the usage to update as the person changes and become more sustainable. so if they use 10% less power than last year, then earning points should become 10% harder next year.
     Each dollar saved in this cateogory will earn the user 5 points.
 
-
 5. Money earned from recyclying water bottles at stations
     By having a Sustain card that the user can tap at select recylcying stations, they can earn points depending on the products they are recyclying and how much
-    
+
 
    
