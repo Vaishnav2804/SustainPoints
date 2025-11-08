@@ -16,23 +16,34 @@ The user can then spend their points to:
 2. Reduce price of EV vehicle
 3. Reduce price of solar panels
 4. Reduce price of insulation
-5. reduce price of second hand goods
-6. reduce price of public transporation passes
+5. Reduce price of second hand goods
+6. Reduce price of public transporation passes
 
 
 There are 4 cateogries of spending that a user can earn points from:
 
 1. Purchasing Refurbished item such as second hand electronics or clothes
+    By reading the user's bank account transactions we can detect where they have spent money, and if it fits within this category.
+    Each dollar spent in this cateogory will earn the user 5 points.
 
 2. Paying for public transportation such as metro, bus, or tram
+    By reading the user's bank account transactions we can detect where they have spent money, and if it fits within this category.
+    Each dollar spent in this cateogory will earn the user 10 points.
 
-3. Purchasing items that promote renewable energy and energy conservation uses such as solar panels or good house insulation
+3. Purchasing items that promote renewable energy and energy conservation uses such as solar panels or good house insulation.
+    By reading the user's bank account transactions we can detect where they have spent money, and if it fits within this category.
+    Each dollar spent in this cateogory will earn the user 20 points.
 
 4. Depending on how much money they have been able to save on utilities (water and power)
-    Since each person and each household will have their own personal usage patterns we need to learn their usage patterns. 
+    Since each person and each household will have their own personal usage patterns we need to learn about them. 
     After we understand how their usage patterns, we can give them points when they are below their average usage.
     This feature would take a year to fully develop. Because of this the first month we will not give any points for this and then during the first year the points will be less than normal.
     Ideally we want the usage to update as the person changes and become more sustainable. so if they use 10% less power than last year, then earning points should become 10% harder next year.
+    Each dollar saved in this cateogory will earn the user 5 points.
+
 
 5. Money earned from recyclying water bottles at stations
+    By having a Sustain card that the user can tap at select recylcying stations, they can earn points depending on the products they are recyclying and how much
+    
+
    
